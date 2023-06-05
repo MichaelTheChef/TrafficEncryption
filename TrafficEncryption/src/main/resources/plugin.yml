@@ -1,0 +1,4 @@
+name: TrafficEncryption
+version: '${project.version}'
+main: me.mio.trafficencryption.TrafficEncryption
+api-version: 1.19
